@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pankajconnect/pankajwebconnect/_apis/build/status/pankajconnect.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/pankajconnect/pankajwebconnect/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
